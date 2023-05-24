@@ -1,6 +1,6 @@
 # Apress Source Code
 
-This repository accompanies [*Firmware Development: A Guide to Specialized Systemic Knowledge*](https://www.link.springer.com/book/10.1007/9781484279731) by Subrata Banik and Vincent Zimmer(Apress, 2022).
+This repository accompanies [*Firmware Development: A Guide to Specialized Systemic Knowledge*](https://link.springer.com/book/10.1007/978-1-4842-7974-8) by Subrata Banik and Vincent Zimmer(Apress, 2022).
 
 [comment]: #cover
 ![Cover image](9781484279731.JPG)
